@@ -1,15 +1,31 @@
 <template>
-  <div class="about">
+  <section id="about">
+    <div class="">
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
+    <h1>This is an about page</h1>
     <h1>This is an about page</h1>
   </div>
+  </section>
+ 
 </template>
 
 <style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
+  #about{
+    padding-top: 75px;
   }
-}
 </style>
